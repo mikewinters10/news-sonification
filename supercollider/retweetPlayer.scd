@@ -1,6 +1,6 @@
 // Example SuperCollider Code to parse JSON format.
 // Written using SuperCollider 3.8.0
-// By R. Michael Winters, June 25, 2018
+// By R. Michael Winters, July 25, 2018
 //
 // Search Help: Shift + Cmd + D
 // Evaluate a line: Shift + Enter
